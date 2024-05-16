@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/Introduction/index.html",
+    "href": "posts/Introduction/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "All about Naomi Mauss\n\nI am originally from Tennessee, but moved to Iowa so I could attend Iowa State.\nI will enter my 3rd year at Iowa State this fall.\nI am currently majoring in data science and linguistics. I enjoy studying data science because I like learning about how I can take data and apply code in order to learn new things about how the world works. I am studying linguistics because I enjoy it, and hope someday to work on NLP.\nAs I stated above, I would love to work on NLP. In addition, I hope to use my degrees to help people, so that the world becomes a better place because I was in it.\nI care about data science because it’s fun. It might be selfish of me, but I don’t think I would care half as much if I didn’t enjoy the puzzle of figuring out what code and formulas need to be inputted in order to find a solution.\nI don’t have much experience working solely in data science, but I am currently in a computational linguistics lab. I have also worked in a computational biochemical lab with a focus on using AI for predictive modeling of protein synthesis. In both of those labs, I routinely used Excel or Python to work with large data sets.\nIn my free time, I enjoy reading, crochet, and foraging. It’s legal to forage wild plants on public land in Iowa, and there’s a lot of really interesting food not sold in stores. I find that searching for new plants to try is a good exercise both mentally, in terms of improving my knowledge of plant identification, and physically because I get to go out and explore nature!\nI’m very interested in learning - anything and everything is fun to learn about. I’ve spent hours in Parks Library’s stacks, getting lost in books on the history of Iowa State’s water system (the water system originally had slightly higher calcium levels than ideal. That book is in the highest stack and has a coupon for 99 cent pizza and a drink. Unfortunately, the coupon expired in 1995) or, if you look at the mining data on the 3rd stack, you can learn that Quebec produced 450 thousand tons of Asbestos in 1941. It’s so cool how much there is to learn in the stacks!\n\n\n\n\nCasey’sPizza\n\n\n\nWhat skills do you value and appreciate about yourself? I appreciate my ability to\nCurrently, I think I’m decent at determining potential trends in data before I work very much with it. I run into many more errors than most people when I code, but that means I’ve become pretty good at debugging, which certainly isn’t the worst skill to have.\nI hope to broaden the scope of my python experience, better understand the specific methodologies and fields in which data science can be applied to improve the world, and improve my understanding of different data science software adn how they work together to form a project.\nI have skills in python, but the data I’ve worked with and the things I’ve done in the language aren’t quite the same as what I expect I will use during the course of this program.\nI want to better understand the industry and what part I could play\nI plan to take detailed documentation on every process I follow (not so detailed that it distracts from the work, but detailed enough that I’ll be able to retrace my steps and better remember what I did)."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Naomi Mauss",
+    "section": "",
+    "text": "I am originally from Tennessee, but moved to Iowa so I could attend Iowa State.\nI will enter my 3rd year at Iowa State in the fall of 2024.\nI am currently majoring in data science and linguistics. I enjoy studying data science because I like learning about how I can take data and apply code in order to learn new things about how the world works. I am studying linguistics because I enjoy it, and hope someday to work on NLP.\nAs I stated above, I would love to work on NLP. In addition, I hope to use my degrees to help people, so that the world becomes a better place because I was in it.\nI care about data science because it’s fun. It might be selfish of me, but I don’t think I would care half as much if I didn’t enjoy the puzzle of figuring out what code and formulas need to be inputted in order to find a solution.\nI don’t have much experience working solely in data science, but I am currently in a computational linguistics lab. I have also worked in a computational biochemical lab with a focus on using AI for predictive modeling of protein synthesis. In both of those labs, I routinely used Excel or Python to work with large data sets.\nIn my free time, I enjoy reading, crochet, and foraging. It’s legal to forage wild plants on public land in Iowa, and there’s a lot of really interesting food not sold in stores. I find that searching for new plants to try is a good exercise both mentally, in terms of improving my knowledge of plant identification, and physically because I get to go out and explore nature!\nI’m very interested in learning - anything and everything is fun to learn about. I’ve spent hours in Parks Library’s stacks, getting lost in books on the history of Iowa State’s water system (It originally had slightly higher calcium levels than ideal. That book is in the highest stack and has a coupon for 99 cent pizza and a drink. Unfortunately, the coupon expired in 1995). It’s so cool how much there is to learn in the stacks!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Naomi Mauss DSPG Blog",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 16, 2024\n\n\nNaomi Mauss\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 16, 2024\n\n\nNaomi Mauss\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 13, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  }
+]

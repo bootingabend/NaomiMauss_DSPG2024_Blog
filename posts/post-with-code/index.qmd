@@ -1,6 +1,6 @@
 ---
 title: "Post With Code"
-author: "Harlow Malloc"
+author: "Naomi Mauss"
 date: "2024-05-16"
 categories: [news, code, analysis]
 image: "image.jpg"

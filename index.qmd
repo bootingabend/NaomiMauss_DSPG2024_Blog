@@ -1,5 +1,5 @@
 ---
-title: "NaomiMauss_DSPG2024_Blog"
+title: "Naomi Mauss DSPG Blog"
 listing:
   contents: posts
   sort: "date desc"
